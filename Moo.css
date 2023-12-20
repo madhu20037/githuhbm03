@@ -1,0 +1,79 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.name{
+	padding: 30px;
+	margin: 10px;
+	color:white;
+	text-align: center;
+	background-color:saddlebrown;
+}
+h2{
+	padding: 10px;
+	color:white ;
+	margin-right: 7px;
+}
+nav{
+	padding: 10px;
+	background-color:saddlebrown;
+	margin: 10px;
+	color:black;
+	text-align: center;
+}
+ul,li{
+	display: inline-block;
+
+}
+li:hover{
+	cursor:pointer;
+	color: white;
+}
+.product{
+	padding: 30px;
+	margin: 10px;
+}
+box{
+	margin:10px ;
+	padding: 10px;
+	display: inline-block;
+	border: solid;
+	border-color:black ;
+	border-width :5px;
+	text-align: center;
+	width: 250px;
+	height: 350px;
+}
+img{
+	margin-top: 10px;
+}
+.two{
+	text-align: center;
+	padding:5px;
+}
+.three{
+	padding: 5px;
+	margin-top: 5px;
+	text-align: center;
+	background-color:black ;
+	color: white;
+	display: inline;
+}
+p{
+	margin: 10px;
+}
+h3:hover{
+cursor: pointer;
+background-color:blue ;
+}
+.qoutes{
+	padding: 30px;
+	margin: 10px;
+	color:white;
+	text-align: center;
+	background-color:saddlebrown ;
+}
+.four{
+	padding: 20px;
+    color: white;
+} 
